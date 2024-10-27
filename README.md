@@ -10,6 +10,11 @@ Crie uma interface chamada **Funcionario** que defina um método `calcularBonus(
 
 Após criar as classes, implemente uma classe principal (Main) que crie instâncias dos dois tipos de funcionários e invoque o método `calcularBonus()` para mostrar o valor do bônus de cada funcionário.
 
+🖼️ Diagrama Uml
+
+![Diagrama em branco](https://github.com/user-attachments/assets/003b05f1-8a50-4390-aa28-db65f59a0ded)
+
+
 ## 📋 Pré-requisitos
 Você precisará das seguintes ferramentas instaladas para rodar o projeto:
 
